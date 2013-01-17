@@ -1,0 +1,6 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\bin\Debug\Sample5-CODEDOM.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\bin\Debug\Sample5-CODEDOM.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\bin\Debug\Sample5-CODEDOM.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\obj\Debug\Sample5-CODEDOM.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\obj\Debug\Sample5-CODEDOM.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample5-CODEDOM\obj\Debug\Sample5-CODEDOM.pdb

@@ -1,0 +1,6 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Interfaces\bin\Debug\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Interfaces\obj\Debug\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Interfaces\obj\Debug\Interfaces.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Interfaces.pdb

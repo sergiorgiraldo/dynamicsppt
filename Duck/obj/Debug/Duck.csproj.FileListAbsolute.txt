@@ -1,0 +1,9 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\bin\Debug\Duck.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\bin\Debug\Duck.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\obj\Debug\Duck.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\obj\Debug\Duck.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\obj\Debug\Duck.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\bin\Debug\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Duck\bin\Debug\Interfaces.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Duck.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Duck.pdb

@@ -1,0 +1,6 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\bin\Debug\Sample7-Binder.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\bin\Debug\Sample7-Binder.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\bin\Debug\Sample7-Binder.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\obj\Debug\Sample7-Binder.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\obj\Debug\Sample7-Binder.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7-Binder\obj\Debug\Sample7-Binder.csprojResolveAssemblyReference.cache

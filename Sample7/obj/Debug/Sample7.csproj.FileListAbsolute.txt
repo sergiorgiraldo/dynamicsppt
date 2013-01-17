@@ -1,0 +1,5 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7\bin\Debug\Sample7.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7\bin\Debug\Sample7.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7\bin\Debug\Sample7.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7\obj\Debug\Sample7.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample7\obj\Debug\Sample7.pdb

@@ -1,0 +1,9 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\bin\Debug\Sample1.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\bin\Debug\Sample1.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\bin\Debug\Sample1.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\obj\Debug\Sample1.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\obj\Debug\Sample1.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample1.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample1.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample1.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache

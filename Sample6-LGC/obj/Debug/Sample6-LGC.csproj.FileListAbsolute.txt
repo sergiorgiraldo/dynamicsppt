@@ -1,0 +1,6 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\bin\Debug\Sample6-LGC.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\bin\Debug\Sample6-LGC.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\bin\Debug\Sample6-LGC.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\obj\Debug\Sample6-LGC.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\obj\Debug\Sample6-LGC.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample6-LGC\obj\Debug\Sample6-LGC.pdb

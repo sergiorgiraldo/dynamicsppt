@@ -1,0 +1,8 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample2\bin\Debug\Sample2.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample2\bin\Debug\Sample2.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample2\bin\Debug\Sample2.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample2\obj\Debug\Sample2.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample2\obj\Debug\Sample2.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample2.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample2.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample2.pdb

@@ -1,0 +1,6 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\bin\Debug\Sample2-Decompiled.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\bin\Debug\Sample2-Decompiled.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\bin\Debug\Sample2-Decompiled.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\obj\Debug\Sample2-Decompiled.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\obj\Debug\Sample2-Decompiled.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample2-Decompiled\obj\Debug\Sample7-Decompiled.csprojResolveAssemblyReference.cache

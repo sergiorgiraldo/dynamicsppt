@@ -1,0 +1,6 @@
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\bin\Debug\Sample8-ExpressionTree.exe.config
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\bin\Debug\Sample8-ExpressionTree.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\bin\Debug\Sample8-ExpressionTree.pdb
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\obj\Debug\Sample8-ExpressionTree.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\obj\Debug\Sample8-ExpressionTree.exe
+C:\Users\sergio\Documents\Visual Studio 2012\Projects\DynamicsPpt\Sample8-ExpressionTree\obj\Debug\Sample8-ExpressionTree.pdb

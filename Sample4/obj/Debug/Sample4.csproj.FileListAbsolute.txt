@@ -1,0 +1,7 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\bin\Debug\Sample4.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\bin\Debug\Sample4.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\bin\Debug\Sample4.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\bin\Debug\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\bin\Debug\Interfaces.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\obj\Debug\Sample4.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample4\obj\Debug\Sample4.pdb

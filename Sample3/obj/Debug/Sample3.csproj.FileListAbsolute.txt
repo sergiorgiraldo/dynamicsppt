@@ -1,0 +1,11 @@
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\bin\Debug\Sample3.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\bin\Debug\Sample3.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\bin\Debug\Sample3.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\obj\Debug\Sample3.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\obj\Debug\Sample3.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\obj\Debug\Sample3.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\bin\Debug\Interfaces.dll
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Sample3\bin\Debug\Interfaces.pdb
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample3.exe.config
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample3.exe
+c:\users\sergio\documents\visual studio 2012\Projects\DynamicsPpt\Output\Sample3.pdb
